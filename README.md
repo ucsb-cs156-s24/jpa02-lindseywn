@@ -1,6 +1,6 @@
 # jpa02-lindseywn
 
-Repo: https://ucsb-cs156-s24/jpa02-lindseywn
+Repo: https://github.com/ucsb-cs156-s24/jpa02-lindseywn
 
 Deployed at: http://jpa02-lindseywn.dokku-14.cs.ucsb.edu
 
