@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s24/jpa02-lindseywn
 
-Deployed at: https://jpa02-lindseywn.dokku-14.cs.ucsb.edu
+Deployed at: http://jpa02-lindseywn.dokku-14.cs.ucsb.edu
 
 
 # About this repo
